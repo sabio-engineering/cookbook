@@ -22,6 +22,8 @@ We're currently looking to recruit the following roles:
 ### Product 
 
 - [Ruby on Rails Engineer](jobs/senior-ruby-engineer.md)
+- [Go Lang Engineer](jobs/golang-software-engineer.md)
+- [Database Engineer](jobs/database-engineer.md)
 
 
 ### Professional Services 

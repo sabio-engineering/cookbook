@@ -7,6 +7,8 @@ We're looking to expand our team of talented people, and want to be as open abou
 We're currently looking to recruit the following roles:
 
 - [Ruby on Rails Engineer](jobs/senior-ruby-engineer.md)
+- [Go Lang Engineer](jobs/golang-software-engineer.md)
+- [Database Engineer](jobs/database-engineer.md)
 
 ## Hiring Process
 
