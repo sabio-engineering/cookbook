@@ -21,9 +21,9 @@ We're currently looking to recruit the following roles:
 
 ### Product 
 
-- [Ruby on Rails Engineer](jobs/senior-ruby-engineer.md)
-- [Go Lang Engineer](jobs/golang-software-engineer.md)
-- [Database Engineer](jobs/database-engineer.md)
+- [Ruby on Rails Engineer](/careers/jobs/senior-ruby-engineer.md)
+- [Go Lang Engineer](/careers/jobs/golang-software-engineer.md)
+- [Database Engineer](/careers/jobs/database-engineer.md)
 
 
 ### Professional Services 
@@ -44,7 +44,7 @@ We work in a fast-paced, complex environment, often working remotely. Our commit
 ### Camaraderie
 Our people work together towards shared goals, enjoy each other’s company and have fun along the way. We recognise that diversity of talents, opinions and perspectives make teams stronger.
 
-## HOW WE BEHAVE
+## HOW WE WIN
 
 ### Follow the data
 Data forms the building blocks of our decisions. It tells us whether we’re succeeding or failing, where we can and should do more - or less. Whether it’s NPS or analytics, data on diversity or sustainability, we find it, we follow it and act on it.
