@@ -1,6 +1,6 @@
 # Sabio Engineering Cookbook
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+![image](/_assets/Robot.svg)
 
 Our collection of guides, recipes and scripts for helping you get things done,
 better.
