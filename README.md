@@ -20,8 +20,7 @@ We're currently looking to recruit the following roles:
 
 ### Product 
 
-  - [Fullstack Engineer](jobs/fullstack-node-engineer.md)
-  - [Senior Fullstack Engineer](jobs/senior-fullstack-node-engineer.md)
+- [Ruby on Rails Engineer](jobs/senior-ruby-engineer.md)
 
 
 ### Professional Services 
