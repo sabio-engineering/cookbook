@@ -1,6 +1,6 @@
 # Ruby on Rails Engineer
 
-Apply [here](https://sabio.pinpointhq.com/en/jobs/13449) - we can't wait to hear from you!
+Apply [here](https://sabio.pinpointhq.com/jobs/21931) - we can't wait to hear from you!
 
 ## About Sabio Engineering
 
@@ -12,30 +12,25 @@ Our experience ranges from designing and delivering end-to-end digital banking s
 
 At Sabio Engineering, we are about loving what we do. We love to learn, we love to experiment and we love to make the best products we can with the best tools we can find. We’re brave, we work hard and at our core we are about quality.
 
-We are currently looking for a passionate and enthusiastic Database Engineer to join our Product team. 
+We are currently looking for an awesome Software Engineer to join our team, to work within our product engineering teams and join our Monitoring Product Team. 
+
+We are looking for like-minded engineers, who are a master of their craft and enjoy the challenge of problem solving.
 
 We look for people with the right cultural fit having what it takes to drive our business forward. We also look for people who are keen to develop new knowledge and skills, because our growth is ultimately dependent on yours. You will play an important role in driving change within our business, joining a department that is continually on a journey of change.
 
+
 ### Tech Stack
 
-We use a variety of technologies at Sabio, this role focuses on the following tech stack using dotnet frameworks that access a Microsoft SQL Database, with our solution hosted on Amazon Web Services, leveraging everything from Kubernetes to Firebase. We use [Teams] for communications. All our work is hosted on [GitHub](https://github.com/sabio-engineering), and built using [GitHub Actions](https://github.com/features/actions)
+We use a variety of technologies at Sabio, this role focuses on the following tech stack for our monitoring product offering using GoLang with our solution hosted on Google Cloud Platform, leveraging everything from Kubernetes to Puppet. We use [Teams] for communications. All our work is hosted on [GitHub](https://github.com/sabio-engineering), and built using [GitHub Actions]().
 
 We could list absolutely everything we use, but we don't want you falling asleep. Let's talk and find out what you're passionate about, and if we don't already use it, we could end up incorporating it into our stack. We're led by our engineers, so technology may move fast, but we're never left behind - always pushing forward.
 
 ## Key Responsibilities of the Role
 
-- Database design and development 
-- Review and enhance scripts and procedures
-- Maintain Source Code for Database
-- Perform Database Tuning and Optimization
-- Implement and maintain database security, create and maintain users and roles, assign privileges etc.
-- Support Development/Applications team for database designs and implementations
-- Review existing system architecture and contribute to improve on future architecture for database - stability and  maximum performance
-- Scripting for automation of updates and changes to the database solution
-- Assist in database purging and collaborate with Applications team to define purging policies
-- Monitor performance to discover and detect possible system anomalies which may impact business - operations. This shall include but not limited to System resource usage, CPU utilization, Disk I/O,   memory utilization , memory cache, inefficient SQL, long running queries, temporary table space - usage, job query analysis, etc
-- Maintain regular Database maintenance schedules
-- Technical Database documentation
+- Be hands-on in new and existing code bases, building new capabilites for our Monitoring and Obeservibility capabitlies which services our client base.
+- Be a team-player, contributing to discussions around code quality and best practice
+- Developing tools and components to enhance our monitoring product offering. Utilizing your scripting knowledge to interrogate and analyse telemetry data.
+- Optimization of the application for maximum speed and scalability whilst ensuring security and data protection.
 
 ## Day to Day Tasks
 
@@ -46,30 +41,30 @@ We could list absolutely everything we use, but we don't want you falling asleep
 
 ## About You
 
-- Bachelor Degree in Information Technology/Information Systems/Computer Science/Business IT or - equivalent
-- At least 5 years of SQL Database administration
-- Good understanding of a Software services business in a high tech environment
-- Strong analytical and problem solving skills  with ability to provide quick resolution to problems
-- Required to support systems hosted in AWS and external Data Centres. 
-- Assist in On site deployments in our Co-Location facilities.
-- Good knowledge of Windows operating systems
-- Office hour role but will be required to support during maintenance period
-- Agile (SCRUM) software development principles and practices
+- Clearly able to identify and follow predefined patterns or approaches in an existing code base
+- Most comfortable working on clearly defined, well scoped features or problems
+- Typically 3+ years focused on a specific domain in a professional environment
+- Being able to decide the priority level of a bug and set of the appropriate course of action
+- Being able to understand user stories and translate them into technical requirements
+- Being able to keep the client up to date on the day to day progress of a project
+- Are ambitious and excited to grow with Sabio
+
 
 ### Technical Skills
 
-While we understand that good engineers can learn new skills, this role is ideally for someone who has good working knowledge and experience in the following:
+While we understand that good programmers can learn new skills, this role is ideally for someone who has good working knowledge and experience in the following:
 
-- Microsoft Database Administration and Troubleshooting
-- Microsoft Profiler
-- TSQL, Query Performance, Stored Procedures
-- Understanding of ORM technologies
-- PDPA – ensures compliance with regulations
+- GoLang
+- Container Technologies (docker / k8s )
+- Scripting Technologies (bash, powershell)
+- Data Steaming
 
 More generally, desirable but not required are:
 
-- Good Knowledge on Entity Framework
-- Experience with Cloud services (AWS, Microsoft Azure) 
+- Understanding of application monitoring
+- open telemetry
+- Prometheus
+- Grafana
 
 We know there's a lot more to programming than what's listed above - but we'd rather learn through talking where your strengths are, than prescribe a pre-set list of hard requirements.
 
@@ -97,7 +92,7 @@ As Sabio is a multi-national company with employees all over the world, you'll h
 
 We are looking for someone to start as soon as possible, so applications will be considered as and when we receive them.
 
-To apply please apply [here](https://sabio.pinpointhq.com/en/jobs/13449) - we can't wait to hear from you!
+To apply please apply [here](https://sabio.pinpointhq.com/jobs/21931) - we can't wait to hear from you!
 
 To learn more about what our hiring process entails, please see our [Careers Readme](../README.md#hiring-process). If you have any questions, please ask away.
 
